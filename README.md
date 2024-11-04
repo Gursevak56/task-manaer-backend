@@ -37,3 +37,4 @@ Getting Started
       : Delete a task
 
   
+7. MongoDB Atlas = mongodb+srv://gursevaksingh:Gursevak%40123@asignment.pvp2j7k.mongodb.net/task-managment
