@@ -24,15 +24,16 @@ Getting Started
     JWT_SECRET=your_jwt_secret
 4. Run the Application
     npm start
-API Endpoints
-Auth Routes
-POST /register: Register a new user
-POST /login: Login and receive a JWT token
-Task Routes (Protected)
-POST /tasks: Create a new task
-GET /tasks: Retrieve all tasks for the logged-in user
-PUT /tasks/
-: Update a task
-DELETE /tasks/
-: Delete a task
+5. API Endpoints
+   1.Auth Routes
+      POST /register: Register a new user
+      POST /login: Login and receive a JWT token
+      Task Routes (Protected)
+      POST /tasks: Create a new task
+      GET /tasks: Retrieve all tasks for the logged-in user
+      PUT /tasks/
+      : Update a task
+      DELETE /tasks/
+      : Delete a task
 
+  
