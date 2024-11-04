@@ -13,7 +13,7 @@ MongoDB installed or use MongoDB Atlas for cloud hosting
 
 Getting Started
 1. Clone the repository
-   git clone https://github.com/your-username/task-manager-backend.git
+   git clone https://github.com/Gursevak56/task-manaer-backend.git
    cd task-manager-backend
 2. Install Dependencies
    npm install
@@ -23,8 +23,8 @@ Getting Started
     MONGODB_URI=your_mongodb_uri
     JWT_SECRET=your_jwt_secret
 4. Run the Application
-    npm start
-5. API Endpoints
+    node server.js
+6. API Endpoints
    1.Auth Routes
       POST /register: Register a new user
       POST /login: Login and receive a JWT token
